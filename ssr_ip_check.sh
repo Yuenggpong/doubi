@@ -9,7 +9,7 @@ export PATH
 #	Author: Toyo
 #=================================================
 # ——————————————————————————————
-IP_threshold=3
+IP_threshold=0
 # IP阈值
 Green_font_prefix="\033[32m" && Red_font_prefix="\033[31m"
 Yellow_font_prefix="\033[33m" && Purple_font_prefix="\033[35m"
